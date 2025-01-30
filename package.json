@@ -14,6 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
+    "@flydotio/dockerfile": "^0.7.4",
     "@types/cors": "^2.8.17",
     "@types/express": "github:types/express",
     "ts-node-dev": "^2.0.0",

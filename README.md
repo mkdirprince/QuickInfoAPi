@@ -60,7 +60,7 @@ This API is deployed on [Fly.io](https://fly.io), a platform that provides fast 
 
 You can access the live API at the following URL:
 
-- [Deployed API URL](https://your-api-url.fly.dev)
+- [Deployed API URL](https://quick-info-api.fly.dev/api/info)
 
 Feel free to test the API using the deployed endpoint.
 
